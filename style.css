@@ -1,0 +1,15 @@
+.socials a {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.socials .social-icon {
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+  transition: transform 0.2s;
+}
+
+.socials a:hover .social-icon {
+  transform: scale(1.2);
+}
