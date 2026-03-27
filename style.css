@@ -1,5 +1,6 @@
 .footer-social {
   margin-top: 20px;
+  font-size: 14px;
 }
 
 .footer-social h4 {
@@ -8,11 +9,10 @@
 }
 
 .footer-social a {
-  display: inline-block;
-  margin-right: 15px;
-  margin-bottom: 5px;
   color: #94a3b8;
   text-decoration: none;
+  display: block;
+  margin-bottom: 5px;
   transition: color 0.2s;
 }
 
